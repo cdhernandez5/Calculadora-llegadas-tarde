@@ -14,6 +14,7 @@ Vimos los siguientes conceptos:
 - [Propiedades Computadas](https://vuejs.org/v2/guide/computed.html#Computed-Properties)
 - [Watchers](https://vuejs.org/v2/guide/computed.html#Watchers)
 - [Componentes](https://vuejs.org/v2/guide/components.html)
+
 y la presentación utilizada la puedes descargar [aquí](https://cdhernandez5.github.io/Calculadora-llegadas-tarde/calculadora-vue.html).
 
 ## Plugins utilizados
