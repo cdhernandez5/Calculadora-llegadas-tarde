@@ -15,7 +15,8 @@ Vimos los siguientes conceptos:
 - [Watchers](https://vuejs.org/v2/guide/computed.html#Watchers)
 - [Componentes](https://vuejs.org/v2/guide/components.html)
 
-y la presentación utilizada la puedes descargar [aquí](https://cdhernandez5.github.io/Calculadora-llegadas-tarde/calculadora-vue.html).
+La presentación utilizada la puedes descargar [aquí](https://github.com/cdhernandez5/Calculadora-llegadas-tarde/tree/master/Presentacion).
+# [Ver demostración](https://cdhernandez5.github.io/Calculadora-llegadas-tarde/calculadora-vue.html)
 
 ## Plugins utilizados
 Lista de plugins utilizados en el código de ejemplo. 
