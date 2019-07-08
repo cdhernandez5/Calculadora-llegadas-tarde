@@ -14,7 +14,7 @@ Vimos los siguientes conceptos:
 - [Propiedades Computadas](https://vuejs.org/v2/guide/computed.html#Computed-Properties)
 - [Watchers](https://vuejs.org/v2/guide/computed.html#Watchers)
 - [Componentes](https://vuejs.org/v2/guide/components.html)
-y la presentación utilizada la puedes descargar aquí.
+y la presentación utilizada la puedes descargar [aquí](https://cdhernandez5.github.io/Calculadora-llegadas-tarde/calculadora-vue.html).
 
 ## Plugins utilizados
 Lista de plugins utilizados en el código de ejemplo. 
@@ -32,7 +32,7 @@ Lista de plugins utilizados en el código de ejemplo.
 ## Descripción de la solución de ejemplo.
 
 En una empresa X se decidió colocar una multa monetaria voluntaria para los colaboradores que llegaban tarde. Dada la alta demanda de llegadas tarde y lo engorroso que era calcular el valor de la llegada, se creó una **Calculadora de llegadas tarde**, que permite a partir de unas variables de entrada, calcular el valor a pagar, siguiendo las siguientes reglas:
-* Un a llegada tarde cuanta a partir de las **8:25 AM**
+* Una llegada tarde cuanta a partir de las **8:25 AM**
 * El valor de la multa es de 8.000 $ si paga el **mismo día**.
 * Aumenta a 10.000 $ si paga al **final de semana**.
 * Y si decide pagar a **final de mes** el valor será de 12.000 $. 
